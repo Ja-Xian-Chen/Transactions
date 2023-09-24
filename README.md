@@ -1,2 +1,4 @@
 # Transactions
-A bash script which parses a text file with dates, account numbers and transactions and sorts the dates and combines the prices each account number.
+Developed a Bash script to efficiently parse and process transaction data from a text file, involving dates, account numbers, and transaction amounts. 
+The script sorts transactions by date and combines transaction amounts for each account number and outputs the transactions onto a Linux directory.
+
